@@ -2,7 +2,7 @@
 
 1. Create virtual environment using conda and activate the env.
 ```
-conda createa -n pymc-env python=3.10
+conda create -n pymc-env python=3.10
 conda activate pymc-env
 ```
 
